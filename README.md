@@ -225,7 +225,7 @@ elite4-nepal/
 
 | Landing Page | Student Dashboard | Sponsor Analytics |
 |:---:|:---:|:---:|
-| ![Landing](screenshots/landing.png) | ![Student](screenshots/student.png) | ![Sponsor](screenshots/sponsor.png) |
+| ![Landing](screenshots/landing page.png) | ![Student](screenshots/student dasbord.png) | ![Sponsor](screenshots/sponser.png) | ! [admin](screenshots/admin dashboard.png) | ! [mentor](screenshots/mentor dashboard.png) |
 
 ---
 
